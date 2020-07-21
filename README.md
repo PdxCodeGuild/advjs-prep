@@ -8,7 +8,10 @@ Since this is the advanced javascript course, I am hoping everyone entering this
 - [Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 - [The Document Object Model (DOM)](https://eloquentjavascript.net/14_dom.html)
 
-## Practical Application from freeCodeCamp
+## Lab
+This workshop, [maps and friends](https://github.com/PdxCodeGuild/map-and-friends), will guide you towards understanding how to use the map, filter, and reduce array methods.
+
+## Additional Application from freeCodeCamp
 
 There are two sections of the [freeCodeCamp](https://www.freecodecamp.org/learn) curriculumn that will help you prep for the Advanced JS, Node, React class.
 
