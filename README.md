@@ -12,9 +12,21 @@ Although this class is largely about Node and React, it is first and foremost ab
 This workshop, [map and friends](https://github.com/PdxCodeGuild/map-and-friends), will guide you towards understanding how to use the map, filter, and reduce array methods, as well as lambda functions (which we will be using A LOT in the course).
 
 ## Extra Resources
-This section is not required but it would be good practice. Consider skimming it over and focusing on the parts you need more practice with.
+This section is not required but it would be good practice. Consider skimming it over and focusing on the parts you need more practice with. This might be especially important if you find Eloquent Javascript too difficult.
 
-There are two sections of the [freeCodeCamp](https://www.freecodecamp.org/learn) curriculumn that will help you prep for the Advanced JS, Node, React class.
+### MDN
+
+MDN also has some good resources for learning javascript.
+
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+  * if Eloquent Javascript is way over your head, this would be a good place to start!
+
+### Free Code Camp
+
+Some people have found Free Code Camp helpful.
+
+There are also two sections of the [freeCodeCamp](https://www.freecodecamp.org/learn) curriculumn that seem good for preparing for the Advanced JS, Node, React class.
 
 ### JavaScript Algorithms and Data Structures
 - Basic JavaScript
